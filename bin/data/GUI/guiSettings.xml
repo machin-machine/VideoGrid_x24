@@ -1,0 +1,110 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>background</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Gain_A1</Name>
+    <Value>255.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Lum_A1</Name>
+    <Value>127.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Gain_B1</Name>
+    <Value>255.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Lum_B1</Name>
+    <Value>127.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Gain_C1</Name>
+    <Value>255.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Lum_C1</Name>
+    <Value>127.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Cont_D1</Name>
+    <Value>176.724685669</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Satu_D1</Name>
+    <Value>127.500000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Y_D1</Name>
+    <Value>-77.974685669</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Mix_D1</Name>
+    <Value>49.224681854</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Fade_G</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>R_Open3</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>R_Open1</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>R_Lect3</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>R_Lect1</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Lum_3</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Lum_1</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>Sens</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>In</Name>
+    <Value>255.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>Out</Name>
+    <Value>127.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>TimeF</Name>
+    <Value>25.091667175</Value>
+</Widget>

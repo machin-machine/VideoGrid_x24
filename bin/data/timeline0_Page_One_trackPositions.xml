@@ -1,0 +1,152 @@
+<positions>
+    <element name="">
+        <x>0.000000000</x>
+        <y>38.000000000</y>
+        <width>850.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="001">
+        <x>0.000000000</x>
+        <y>38.000000000</y>
+        <width>850.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Audio">
+        <x>0.000000000</x>
+        <y>38.000000000</y>
+        <width>1100.000000000</width>
+        <height>33.227264404</height>
+    </element>
+    <element name="In">
+        <x>0.000000000</x>
+        <y>613.181823730</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="LFO">
+        <x>0.000000000</x>
+        <y>38.000000000</y>
+        <width>1600.000000000</width>
+        <height>236.000000000</height>
+    </element>
+    <element name="Mix_G1">
+        <x>0.000000000</x>
+        <y>531.954528809</y>
+        <width>1100.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="Out">
+        <x>0.000000000</x>
+        <y>646.409118652</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="Rand">
+        <x>0.000000000</x>
+        <y>712.863708496</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="SelVid">
+        <x>0.000000000</x>
+        <y>285.363647461</y>
+        <width>1100.000000000</width>
+        <height>23.227264404</height>
+    </element>
+    <element name="SelVidA">
+        <x>0.000000000</x>
+        <y>332.590911865</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="SelVidB">
+        <x>0.000000000</x>
+        <y>365.818176270</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="SelVidC">
+        <x>0.000000000</x>
+        <y>399.045440674</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="SelVidD">
+        <x>0.000000000</x>
+        <y>432.272705078</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="SelVidE">
+        <x>0.000000000</x>
+        <y>465.499969482</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="SelVidF">
+        <x>0.000000000</x>
+        <y>498.727233887</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="SendOsc">
+        <x>0.000000000</x>
+        <y>746.091003418</y>
+        <width>1100.000000000</width>
+        <height>33.227294922</height>
+    </element>
+    <element name="Sens">
+        <x>0.000000000</x>
+        <y>579.954528809</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="TV1">
+        <x>0.000000000</x>
+        <y>555.954528809</y>
+        <width>1100.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="TimeF">
+        <x>0.000000000</x>
+        <y>679.636413574</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="Vid01">
+        <x>0.000000000</x>
+        <y>95.227264404</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="Vid02">
+        <x>0.000000000</x>
+        <y>128.454528809</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="Vid03">
+        <x>0.000000000</x>
+        <y>161.681808472</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="Vid04">
+        <x>0.000000000</x>
+        <y>194.909088135</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="Vid05">
+        <x>0.000000000</x>
+        <y>228.136367798</y>
+        <width>1100.000000000</width>
+        <height>9.227272987</height>
+    </element>
+    <element name="Vid06">
+        <x>0.000000000</x>
+        <y>261.363647461</y>
+        <width>1100.000000000</width>
+        <height>0.000000000</height>
+    </element>
+</positions>
