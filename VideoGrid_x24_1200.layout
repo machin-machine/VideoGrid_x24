@@ -4,13 +4,13 @@
 	<File name="../../../addons/ofxUI/src/ofxUICanvas.h" open="1" top="0" tabpos="2">
 		<Cursor position="7225" topLine="182" />
 	</File>
-	<File name="../../../addons/ofxUI/src/ofxUIRadio.h" open="1" top="1" tabpos="1">
+	<File name="../../../addons/ofxUI/src/ofxUIRadio.h" open="1" top="0" tabpos="1">
 		<Cursor position="2905" topLine="45" />
 	</File>
 	<File name="src/main.cpp" open="0" top="0" tabpos="2">
 		<Cursor position="220" topLine="0" />
 	</File>
-	<File name="src/testApp.cpp" open="0" top="0" tabpos="1">
+	<File name="src/testApp.cpp" open="1" top="1" tabpos="3">
 		<Cursor position="61059" topLine="3067" />
 	</File>
 	<File name="src/testApp.h" open="0" top="0" tabpos="3">
