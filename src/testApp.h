@@ -88,7 +88,7 @@ class testApp : public ofSimpleApp{
 		ofxXmlSettings XML;
 		ofTrueTypeFont TTF;
 		float   dirSize;
-		bool bClic;
+		bool bClic,bWindow;
 
 
 };

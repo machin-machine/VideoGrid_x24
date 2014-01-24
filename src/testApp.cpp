@@ -316,7 +316,7 @@ void testApp::setupGUI2()
 //    gui->setScrollAreaToScreen();
 
 
-    gui1->setName("gui6");
+    gui1->setName("gui2");
 
     float dim =20;
     float xInit = OFX_UI_GLOBAL_WIDGET_SPACING;
@@ -2793,13 +2793,11 @@ void testApp::guiEvent(ofxUIEventArgs &e)
         if(button->getValue() == 0 )
         {
             ofSetWindowPosition(0,600);
-
             ofSetWindowShape(1000,250);
         }
         if(button->getValue() == 1 )
         {
             ofSetWindowPosition(0,600);
-
             ofSetWindowShape(1180,250);
 
 
@@ -2867,6 +2865,31 @@ void testApp::keyPressed  (int key)
     {
         Lect5 = 0;
     }
+    if (key =='9')
+    {
+        if(bWindow)
+        {
+            ofSetWindowShape(50,50);
+            ofSetWindowPosition(0,760);
+
+            bWindow=false;
+        }
+        else
+        {
+            ofSetWindowPosition(0,600);
+            ofSetWindowShape(1000,250);
+            bWindow=true;
+        }
+    }
+    else
+    {
+    }
+
+
+
+
+
+
 //        if (key =='6' ){
 //        dir.listDir(dossierV);
 //        dir.allowExt("mov");
