@@ -3094,7 +3094,6 @@ void testApp::keyPressed  (int key)
     }
     if (key =='=' )
     {
-
         dir.listDir(dossierV);
         dir.allowExt("mov");
         dir.sort();
